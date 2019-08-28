@@ -1,0 +1,66 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(9,5,72);
+    background: linear-gradient(90deg, rgba(9,5,72,1) 0%, rgba(8,171,136,1) 38%, rgba(89,87,43,1) 100%);
+}
+
+#container {
+    height: 525px;
+    width: 360px;
+    background-color: #f7f7f7ff;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+    border-radius: 25px;
+    margin: 100px auto;
+}
+
+h1 {
+    background-color: #06214c;
+    color: #fff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    text-align: center;
+    margin: 0;
+    font-weight: normal;
+    padding: 10px 50px;
+}
+
+
+#calculator {
+    padding: 0px 20px;
+}
+
+#serviceQual {
+    font-size: 25px;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #979008;
+    color: #fff;
+    height: 50px;
+    width: 200px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 17px;
+    border-radius: 5px;
+
+}
+
+#button {
+    text-align: center;
+    margin: 20px auto;
+}
+
+input {
+    padding: 10px 10px;
+    border-radius: 5px;
+
+}
+
+#totalTip {
+    font-size: 30px;
+    margin-top: 5px;
+    text-align: center;
+}
+
